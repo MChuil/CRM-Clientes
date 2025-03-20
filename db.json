@@ -1,0 +1,94 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "name": "Juan",
+      "lastname": "Perez",
+      "company": "Udemy",
+      "email": "juan@gamil.com",
+      "phone": "966-101-2323",
+      "job": "Designer",
+      "state": true
+    },
+    {
+      "name": "Pablo",
+      "lastname": "Marmol",
+      "email": "pablo@gmail.com",
+      "phone": "966-555-7777",
+      "company": "Google",
+      "job": "Designer",
+      "id": "2",
+      "state": true
+    },
+    {
+      "id": "3",
+      "name": "Pedro",
+      "lastname": "Picapiedra",
+      "company": "Facebook",
+      "email": "pedreo@gmail.com",
+      "phone": "966-101-2323",
+      "job": "Designer",
+      "state": true
+    },
+    {
+      "id": "4",
+      "name": "Fred",
+      "lastname": "Flintstone",
+      "company": "Twitter",
+      "email": "fred@gmail.com",
+      "phone": "966-101-2323",
+      "job": "Designer",
+      "state": 1
+    },
+    {
+      "id": "5",
+      "name": "Wilma",
+      "lastname": "PicaPiedra",
+      "email": "wilma@gmail.com",
+      "phone": "966-101-1111",
+      "company": "Instagram",
+      "job": "Designer",
+      "state": 1
+    },
+    {
+      "name": "Miguel",
+      "lastname": "Chuil Martinez",
+      "email": "developer.chuil@gmail.com",
+      "phone": "966-101-2323",
+      "company": "Cotorra Music Group",
+      "job": "Developer",
+      "id": "faf6",
+      "state": 1
+    },
+    {
+      "name": "Juan",
+      "lastname": "Noroña",
+      "email": "norona@gmail.com",
+      "phone": "955-111-2343",
+      "company": "Gallos",
+      "job": "Gerente",
+      "id": "e989",
+      "state": 1
+    },
+    {
+      "id": "ae49",
+      "name": "Juana",
+      "lastname": "La Cubana",
+      "email": "jany@gmail.com",
+      "phone": "879-098-7564",
+      "company": "La Habana",
+      "job": "CEO",
+      "state": true
+    },
+    {
+      "id": "26fb",
+      "name": "Monica",
+      "lastname": "Naranjo",
+      "email": "monic@gmail.com",
+      "phone": "113-123-1234",
+      "company": "España",
+      "job": "Cantante",
+      "state": 1
+    }
+  ]
+}
